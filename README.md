@@ -19,6 +19,7 @@ The FPM framework is structured into seven distinct operational phases within th
 ## Requirements
 To run and explore the compiler, you will need:
 * **Lean Version:** `4.28`
+
 In case the code does not successfully compiles due to issues in uploading the lean-toolchain, or lakefile.toml, kindly only use the files FPM_Phase1 till FPM_Phae7_Phy and let lean build its own dependendent files.
 
 ## Development Notes
