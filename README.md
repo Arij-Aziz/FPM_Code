@@ -20,7 +20,7 @@ The FPM framework is structured into seven distinct operational phases within th
 To run and explore the compiler, you will need:
 * **Lean Version:** `4.28`
 
-In case the code does not successfully compiles due to issues in uploading the lean-toolchain, or lakefile.toml, kindly only use the files FPM_Phase1 till FPM_Phae7_Phy and let lean build its own dependendent files.
+In case the code does not successfully compiles due to issues in uploading the lean-toolchain, or lakefile.toml, kindly only use the file FPM_Complete and let lean build its own dependendent files.
 
 ## Development Notes
 Please note that this is my first mathematical project written in Lean, so the code structure may not be perfectly clean or strictly idiomatic yet. Additionally, I utilized AI to assist with the development process, and approximately 60% of the code was written with AI assistance. 
